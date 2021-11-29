@@ -3,6 +3,7 @@ To do: Install python or miniconda
 Open cmd or anaconda prompt
 create an environment and/or just run:
  > pip install -r requirements.txt
+ 
 open the usdt_swap.py file and replace <api_key> and <api_secret> with the ones provided to you by bianance.
 
 # Using the program #
